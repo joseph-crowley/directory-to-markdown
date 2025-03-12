@@ -1,5 +1,9 @@
 # Directory to Markdown Converter
 
+![Project Preview](.github/bookworm.jpg)
+
+[image](https://en.wikipedia.org/wiki/The_Bookworm_(Spitzweg))
+
 A robust, configurable Python tool designed to transform your project directory into a clearly structured Markdown document—perfectly optimized for documentation, code reviews, and integration with language models.
 
 The converter traverses directories, gracefully handles large files, logs processing details, and manages errors to ensure consistent, reliable outputs.
