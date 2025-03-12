@@ -1,12 +1,19 @@
 # Directory to Markdown Converter
 
-![Project Preview](.github/bookworm.jpg)
-
-[image](https://en.wikipedia.org/wiki/The_Bookworm_(Spitzweg))
+> Love this project? [Consider supporting it here](https://pay.fattailed.ai/b/5kAg339SIf7v9lm6or). Your contributions help keep open source thriving!
 
 A robust, configurable Python tool designed to transform your project directory into a clearly structured Markdown document—perfectly optimized for documentation, code reviews, and integration with language models.
 
 The converter traverses directories, gracefully handles large files, logs processing details, and manages errors to ensure consistent, reliable outputs.
+
+<p align="center">
+  <img src=".github/bookworm.jpg" alt="Project Preview" style="width: 80%; height: auto;" />
+</p>
+
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/The_Bookworm_(Spitzweg)">image</a>
+</p>
+
 
 ## Why Use This?
 
