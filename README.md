@@ -62,15 +62,13 @@ python directory_to_markdown.py myfiles --ignore node_modules .git myfolder
 
 Each file’s contents are encapsulated clearly:
 
-```markdown
-## relative/path/to/file.py
-
-```py
-# File contents go here
-def example():
-    pass
-\`\`\`
-```
+> ## relative/path/to/file.py
+> 
+>     ```py
+>     # File contents go here
+>     def example():
+>         pass
+>     ```
 
 This format ensures readability and easy parsing, suitable for automated ingestion by tools, including large language models (LLMs).
 
